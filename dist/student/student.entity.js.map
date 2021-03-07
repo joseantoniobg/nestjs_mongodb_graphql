@@ -1,0 +1,1 @@
+{"version":3,"file":"student.entity.js","sourceRoot":"","sources":["../../src/student/student.entity.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,qCAAwE;AAGxE,IAAa,OAAO,GAApB,MAAa,OAAO;CAanB,CAAA;AAVG;IADC,wBAAc,EAAE;;oCACL;AAGZ;IADC,uBAAa,EAAE;;mCACL;AAGX;IADC,gBAAM,EAAE;;0CACS;AAGlB;IADC,gBAAM,EAAE;;yCACQ;AAZR,OAAO;IADnB,gBAAM,EAAE;GACI,OAAO,CAanB;AAbY,0BAAO"}
